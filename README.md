@@ -19,6 +19,8 @@ eu possa aplicar e expandir meus conhecimentos em programação e tecnologias we
 ### FERRAMENTAS:
  ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+ 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lauragabs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Experiências
@@ -35,6 +37,15 @@ eu possa aplicar e expandir meus conhecimentos em programação e tecnologias we
 ### PROJETO DE UM SITE PARA OFICINA MECÂNICA | EM ANDAMENTO
 · Desenvolvimento de um site para uma oficina mecânica, focado no controle de ordens de serviço e mão de obra.
 Utiliza HTML, CSS e JavaScript para a interface.
+
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lauragabs&repo=NLW-17-Pocket-JavaScript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lauragabs/NLW-17-Pocket-JavaScript)
+
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lauragabs&repo=buscar-animes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lauragabs/buscar-animes)
+
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lauragabs&repo=Desafio-Dio3&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lauragabs/Desafio-Dio3)
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lauragabs&repo=JogoDaVelha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lauragabs/JogoDaVelha)
