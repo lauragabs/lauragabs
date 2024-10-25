@@ -7,17 +7,7 @@ eu possa aplicar e expandir meus conhecimentos em programação e tecnologias we
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:laura.587523la@gmail.com)
 
 ## Habilidades e Conhecimento
-#### LINGUAGENS DE PROGRAMAÇÃO:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-#### DESENVOLVIMENTO WEB:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-#### FERRAMENTAS:
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
+#### LINGUAGENS DE PROGRAMAÇÃO E DESENVOLVIMENTO WEB
  
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lauragabs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
@@ -32,7 +22,9 @@ eu possa aplicar e expandir meus conhecimentos em programação e tecnologias we
 - Responsável pelo pagamento de funcionários e gerenciamento do cartão de ponto.
 
 ## Atividades extracurriculares e Projetos 
-#### CERTIFICADOS DE HTML, CSS E LÓGICA DE PROGRAMAÇÃO PELA PLATAFORMA DIO.ME
+
+#### CERTIFICADO DE [LÓGICA DE PROGRAMAÇÃO](https://www.dio.me//certificate/0IGEYTRX) 
+#### CERTIFICADO DE [HTML](https://www.dio.me//certificate/HVDSNOR7) 
 #### PROJETO DE UM SITE PARA OFICINA MECÂNICA | EM ANDAMENTO
 - Desenvolvimento de um site para uma oficina mecânica, focado no controle de ordens de serviço e mão de obra.
 Utiliza HTML, CSS e JavaScript para a interface.
