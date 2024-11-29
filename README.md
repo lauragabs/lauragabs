@@ -25,7 +25,5 @@ eu possa aplicar e expandir meus conhecimentos em programação e tecnologias we
 
 #### CERTIFICADO DE [LÓGICA DE PROGRAMAÇÃO](https://www.dio.me//certificate/0IGEYTRX) 
 #### CERTIFICADO DE [HTML](https://www.dio.me//certificate/HVDSNOR7) 
-#### PROJETO DE UM SITE PARA OFICINA MECÂNICA | EM ANDAMENTO
-- Desenvolvimento de um site para uma oficina mecânica, focado no controle de ordens de serviço e mão de obra.
-Utiliza HTML, CSS e JavaScript para a interface.
+
 
