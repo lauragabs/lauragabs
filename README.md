@@ -5,7 +5,7 @@
 🔍 Buscando Estágio em Desenvolvimento de Software
 
 ## Contatos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/laura-gabriely-barbosa-604574266/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-gabriely-barbosa-604574266/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:laura.587523la@gmail.com)
 
 ## Habilidades e Conhecimento 
