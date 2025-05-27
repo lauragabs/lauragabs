@@ -14,7 +14,7 @@
 - 🛠️ Frameworks e Bibliotecas: Spring Boot, React (em estudo), FastAPI (em estudo)
 - 🗄️ Banco de Dados: MySQL
 - 🔧 Ferramentas: Git, VS Code, Docker, SonarQube 
-- 📚 Outros Conhecimentos: Lógica de Programação, JSON, Metodologias Ágeis (Scrum - básico), GitHub
+- 📚 Outros Conhecimentos: Lógica de Programação, JSON, Metodologias Ágeis (Scrum - básico), GitHub, Desenvolvimento de APIs RESTful
   
 _O gráfico abaixo mostra minhas linguagens mais usadas no GitHub público:_
 
