@@ -1,4 +1,4 @@
-# Laura Gabriely Barbosa Freitas 
+# Laura Gabriely Barbosa da Costa 
 
 📚 Estudante de Sistemas para Internet - IFTM 
 
