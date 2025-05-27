@@ -1,8 +1,11 @@
 # Laura Gabriely Barbosa da Costa 
 
 📚 Estudante de Sistemas para Internet - IFTM 
+
 🎯 Aspirante a Desenvolvedora Full Stack
+
 💻 Entusiasta de desenvolvimento web e novas tecnologias
+
 🔍 Buscando Estágio em Desenvolvimento de Software
 
 ## Contatos:
