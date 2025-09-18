@@ -22,8 +22,8 @@
   
 _O gráfico abaixo mostra minhas linguagens mais usadas no GitHub público:_
 
-![Top Langs](![Top Langs](https://github-readme-stats-rust-iota-65.vercel.app/api/top-langs/?username=lauragabs&layout=compact&theme=dark)
-)
+![Top Langs](https://github-readme-stats-rust-iota-65.vercel.app/api/top-langs/?username=lauragabs&layout=compact&theme=dark)
+
 
 
 ## 🌱 Atualmente Aprendendo
