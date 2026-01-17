@@ -4,8 +4,6 @@
 
 🎯 Aspirante a Desenvolvedora Full Stack
 
-💻 Entusiasta de desenvolvimento web e novas tecnologias
-
 🔍 Buscando Estágio em Desenvolvimento de Software
 
 ## Contatos:
@@ -23,8 +21,6 @@
 _O gráfico abaixo mostra minhas linguagens mais usadas no GitHub público:_
 
 ![Top Langs](https://github-readme-stats-rust-iota-65.vercel.app/api/top-langs/?username=lauragabs&layout=compact&theme=dark)
-
-
 
 ## 🌱 Atualmente Aprendendo
 
